@@ -5,17 +5,12 @@
 
 ## 简介
 * AI音视频简便处理工具，支持`独立运行模型`和`组合工作流`实现自动化
-* 后端：
-  * c++，基于搜狗开源的 [workflow](https://github.com/sogou/workflow) 开发
-* 客户端：
-  * flutter
-  * 支持[windows]
-  * 支持简便运行多种音视频AI模型，以及组合工作流实现自动化。
-  * 已经支持：
-    * 音频转换工具；包含转换格式、采样率、响度匹配、切片。
-    * [DDSP-SVC](https://github.com/yxlllc/DDSP-SVC)；AI变声翻唱
-    * [MSST](https://github.com/ZFTurbo/Music-Source-Separation-Training); 分离歌曲中的人声、伴奏、和声、混音、噪音
-    * [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS); TTS，文字转语音
+* 支持[windows]，简便运行多种音视频AI模型，以及组合工作流实现自动化。
+* 已经支持的模型：
+  * 音频转换工具；包含转换格式、采样率、响度匹配、切片。
+  * [DDSP-SVC](https://github.com/yxlllc/DDSP-SVC)；AI变声翻唱
+  * [MSST](https://github.com/ZFTurbo/Music-Source-Separation-Training); 分离歌曲中的人声、伴奏、和声、混音、噪音
+  * [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS); TTS，文字转语音
 
 ## 预览图
 | -                                  | -                                  | -                                  | -                                  |
