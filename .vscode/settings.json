@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "liveServer.settings.port": 5500,
+    "liveServer.settings.proxy": {
+        "enable": false,
+        "baseUri": "/api",
+        "proxyUri": "https://download.lumenxx.bool.run/api/"
+    }
+}

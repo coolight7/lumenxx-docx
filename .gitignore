@@ -1,0 +1,5 @@
+docx/node_modules/
+docx/.vitepress/cache/
+docx/.vitepress/dist/
+docx/build
+build/
