@@ -1,4 +1,5 @@
 # Lumenxx 流明AI
+* **！！！本项目目前正在测试开发基础功能中！！！**
 * [官网](https://blog.lumenxx.bool.run/)
 * [下载官网](https://download.lumenxx.bool.run/)
 * [GitHub](https://github.com/coolight7/Lumenxx)
