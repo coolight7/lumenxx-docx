@@ -1,5 +1,5 @@
 # 关于作者
-<img src="coolight_s.jpg" width="300" height="300">
+<img src="./coolight_s.jpg" width="300" height="300">
 
 - coolight • 郑泳坤
 
