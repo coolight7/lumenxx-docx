@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "流明AI-使用帮助"
-  text: "流明AI | AI音视频处理工具"
-  tagline: 流明,流明AI,音乐,AI翻唱,人声伴奏分离,文字转语音,DDSP-SVC,MSST,GPT-SoVITS,TTS,lumenxx,windows,GUI
+  name: "流明AI"
+  text: "AI音视频处理工具"
+  tagline: AI翻唱,人声伴奏分离,文字转语音
   actions:
     - theme: brand
       text: 下载
