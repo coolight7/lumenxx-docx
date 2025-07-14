@@ -48,6 +48,7 @@
             font-size: large;
             font-weight: normal;
             color: #66ccff;
+            text-decoration: none;
         }
 
         .cmusic_appTitle {
@@ -96,12 +97,16 @@
         }
 
         .cmusic_image {
-            border: 0.5vw solid #3c414b;
-            border-radius: 2vw;
-            width: 12vw;
-            height: 12vw;
-            box-shadow: 2vw 2vw 3vw #19191e, -2vw -2vw 3vw #4b505a;
-            -webkit-box-shadow: 2vw 2vw 3vw #19191e, -2vw -2vw 3vw #4b505a;
+            width: 20vw;
+            height: 20vw;
+        }
+
+        .cmusic_image_bg {
+            width: 18vw;
+            height: 14vw;
+            filter: blur(4vw);
+            background: -webkit-linear-gradient(120deg, #66ccff 30%, #41d1ff);
+            background-image: linear-gradient(-45deg, #13e4ea 50%, #7d78eb 50%);
         }
 
         .cmusic_icon {
@@ -118,12 +123,16 @@
 
         @media only screen and (max-width: 1300px) {
             .cmusic_image {
-                border: 7px solid #3c414b;
-                border-radius: 30px;
-                width: 160px;
-                height: 160px;
-                box-shadow: 20px 20px 30px #19191e, -20px -20px 30px #4b505a;
-                -webkit-box-shadow: 20px 20px 30px #19191e, -20px -20px 30px #4b505a;
+                width: 300px;
+                height: 300px;
+            }
+
+            .cmusic_image_bg {
+                width: 250px;
+                height: 250px;
+                filter: blur(50px);
+                background: -webkit-linear-gradient(120deg, #66ccff 30%, #41d1ff);
+                background-image: linear-gradient(-45deg, #13e4ea 50%, #7d78eb 50%);
             }
         }
 
@@ -315,15 +324,22 @@
         <span class="cmusic_textMain" id="checkEnableJS">您的浏览器已禁用JavaScript，请开启才能正常浏览当前网页</span>
         <div class="mimicry_column" style="flex:1; align-items: center; padding-top: 30px;">
             <!-- 图标 -->
-            <img class="cmusic_image" src="images/logo-tran.png" alt="流明AI" />
+            <div style="display: flex; justify-content: center; align-items: center; position: relative;">
+                <div class="cmusic_image_bg" style="position: relative;"></div>
+                <img class="cmusic_image" style="position: absolute;" src="images/logo-tran.png" alt="流明AI" />
+            </div>
             <div style="width: 90%;">
                 <div class="mimicry_column"
                     style="background-color: #2a3138; border-radius: 15px; margin-top: 20px; padding: 20px; display: block;">
                     <span class="cmusic_appTitle clip" style="margin-bottom: 15px; display: block;">流明AI</span>
                     <span class="cmusic_textMain"
-                        style="font-size: 30px; font-weight: bolder; margin-bottom: 15px; display: block;">AI音视频处理工具</span>
+                        style="font-size: 30px; font-weight: bolder; margin-bottom: 15px; display: block;">•
+                        AI音视频处理工具</span>
                     <a class="cmusic_textLink" style="margin-bottom: 15px;display: block;"
-                        href="https://blog.lumenxx.bool.run/">•『 流明AI官网 』</a>
+                        href="https://blog.lumenxx.bool.run/">•『 流明AI 』使用帮助</a>
+                    <a class="cmusic_textLink" style="margin-bottom: 15px;display: block;"
+                        href="https://blog.coolight.cool/">•『 我们的其他APP 』</a>
+                    <span class="cmusic_textCross">• 若无法安装，请更换浏览器尝试</span>
                 </div>
             </div>
         </div>
