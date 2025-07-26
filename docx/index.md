@@ -22,7 +22,7 @@ hero:
 
 features:
   - title: 多模型支持
-    details: 支持运行 DDSP-SVC、MSST、GPT-SoVITS 等模型
+    details: 支持运行 DDSP-SVC、RVC、MSST、GPT-SoVITS、ACE-Step 等模型；AI变声翻唱、克隆声线生成语音、人声伴奏分离降噪、AI编曲
   - title: 工作流
     details: 可将AI模型搭建工作流执行自动化任务
   - title: 简便操作
