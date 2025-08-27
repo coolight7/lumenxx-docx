@@ -24,14 +24,16 @@
 - [屏幕缩放与边距调整]
 - [缓存和下载管理]
 
-## 插件
+## 插件与模块功能
 - [插件的查看和安装、更新、卸载]
+- [音频工具]；格式转换、响度平衡、自动切片
+- [文件工具]；批量重命名、批量平铺移动文件
 - 流明AI对AI模型的支持都在插件中，以下是已经支持的插件：
-- [DDSP-SVC](./plugins/ddsp-svc/)
-- [RVC]
-- [MSST]
-- [GPT-SoVITS](./plugins/gpt-sovits/)
-- [ACE-Step]
+- [DDSP-SVC](./plugins/ddsp-svc/)；AI变声/翻唱
+- [RVC]；AI变声/翻唱
+- [MSST](./plugins/msst/)；人声伴奏分离、和声混音分离、降噪
+- [GPT-SoVITS](./plugins/gpt-sovits/)；TTS、音色克隆、AI配音，模仿一段参考音频的音色和语气，将文本朗读出来
+- [ACE-Step](./plugins/ace-step/)；AI编曲
 - [共享与控制]
 
 ## 综合指南
