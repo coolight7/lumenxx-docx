@@ -17,7 +17,7 @@ hero:
       text: GitHub
       link: https://github.com/coolight7/lumenxx-docx
   image:
-      src: images/logo-tran.png
+      src: images/lumenxx-glass.png
       alt: 流明AI
 
 features:
