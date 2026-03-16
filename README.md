@@ -18,6 +18,8 @@
   - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS); TTS，文字转语音，声线克隆说话
   - [FunASR](https://github.com/modelscope/FunASR)；语音识别、自动歌词打轴
   - [ACE-Step](https://github.com/ace-step/ACE-Step); AI编曲/Remix
+- 选择文件（夹）时自动推荐文件和目录路径
+- Python环境自动插入额外的优化代码，检查运行环境、自动修复和警告提示
 
 ## 预览图
 | -                                  | -                                  |
