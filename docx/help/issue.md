@@ -5,7 +5,7 @@
 ## 安装相关
 
 ### 安全软件报毒/木马
-- 只要是在[流明AI下载官网](https://download.lumenxx.bool.run/)下载的就可以放心安装使用。
+- 只要是在[流明下载官网](https://download.lumenxx.bool.run/)下载的就可以放心安装使用。
 
 ## App相关
 

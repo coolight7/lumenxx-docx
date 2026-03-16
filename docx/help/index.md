@@ -1,5 +1,5 @@
 # 使用帮助
-- 本页将帮助您使用『流明AI』，如有需要可点击前往[了解『流明AI』](/info/)
+- 本页将帮助您使用『流明』，如有需要可点击前往[了解『流明』](/info/)
 
 ## 疑问
 - 如果使用帮助没有解决您的疑问，可以尝试以下方式：
@@ -7,7 +7,7 @@
   - 查看[已知问题](question)
 
 ## 提交Bug和建议
-- 建议在[流明AI的GitHub项目](https://github.com/coolight7/lumenxx-docx/issues)中的Issue提出Bug和建议（**访问Github很可能需要挂VPN/梯子**）；
+- 建议在[流明的GitHub项目](https://github.com/coolight7/lumenxx-docx/issues)中的Issue提出Bug和建议（**访问Github很可能需要挂VPN/梯子**）；
 - **如果联系作者可能会被覆盖看不到。**
 
 ## 开始

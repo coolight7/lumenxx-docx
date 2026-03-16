@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "流明AI"
+  name: "流明"
   text: "AI音视频处理工具"
   tagline: AI翻唱,人声伴奏分离,文字转语音
   actions:
@@ -18,11 +18,11 @@ hero:
       link: https://github.com/coolight7/lumenxx-docx
   image:
       src: images/lumenxx-glass.png
-      alt: 流明AI
+      alt: 流明
 
 features:
   - title: 多模型支持
-    details: 支持运行 DDSP-SVC、RVC、MSST、GPT-SoVITS、ACE-Step 等模型；AI变声翻唱、克隆声线生成语音、人声伴奏分离降噪、AI编曲
+    details: 支持 Llama.cpp、SD.cpp、DDSP-SVC、RVC、MSST、GPT-SoVITS、ACE-Step 等模型；聊天模型、图像生成、AI变声翻唱、克隆声线生成语音、人声伴奏分离降噪、AI编曲
   - title: 工作流
     details: 可将AI模型搭建工作流执行自动化任务
   - title: 简便操作
