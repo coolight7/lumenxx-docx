@@ -18,7 +18,7 @@
     ![alt text](image-2.png)
        - 优先选择`Unsloth AI`上传的`GGUF`，[点击直达](https://www.modelscope.cn/models/unsloth/Z-Image-Turbo-GGUF)：
     ![alt text](image-3.png)
-       - 根据你的显卡的显存大小挑选模型，一般选`显存容量减1G`大小的模型，普遍规律是模型越大，效果越好，但越吃显存、运行越久，只要显存放得下，优先选尽可能大的追求质量，当然也可以选`4bit量化`之类的追求速度
+       - 根据你的显卡的显存大小挑选模型，一般选`显存容量减1G`大小的模型，普遍规律是模型越大，效果越好，但越吃显存、运行越久，只要显存放得下，优先选尽可能大的追求质量，当然也可以选`4bit量化`之类的追求速度。我的话常用的就是`8Bit`量化，效果够用兼顾速度
     ![alt text](image-4.png)
    - 然后是`VAE模型`，新建一个`vae`文件夹，然后[点击下载](https://huggingface.co/black-forest-labs/FLUX.1-schnell/tree/main/vae)两个文件到`vae`文件夹中
    - 最后是`LLM模型`，这里需要一个`Qwen3-4B`，[点击前往下载](https://www.modelscope.cn/models/unsloth/Qwen3.5-4B-GGUF)一个模型即可
