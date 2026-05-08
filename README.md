@@ -5,7 +5,7 @@
 * [GitHub](https://github.com/coolight7/Lumenxx)
 
 ## 简介
-- AI音视频简便处理工具。
+- AI音视频简便处理工具
 - 支持[windows x64 win10或以上]
 - 已经支持的模型：
   - 音频转换工具；转换格式、采样率、响度匹配、自动切片、移除静音
