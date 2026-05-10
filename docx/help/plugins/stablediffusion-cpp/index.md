@@ -4,7 +4,7 @@
 ## 如何使用
 1. 挂VPN，[点击前往Github下载运行环境](https://github.com/leejet/stable-diffusion.cpp/releases)
   - 从下载页面中选择适合自己的显卡或CPU的压缩包下载，其中`windows`系统需要选择`win`字段的
-    - 带`cuda`字段的表示适用于`N卡、英伟达显卡`设备
+    - 带`cuda`字段的表示适用于`N卡、英伟达显卡`设备。如果 CUDA 版本跟你的系统安装不兼容，就会运行失败，可以点击对应下载链接后面的 `CUDA xx.x DLLs`，然后解压到`llama.cpp`的.exe文件同目录即可
     - 带`rocm`字段的表示适用于`AMD显卡`设备
     - 带`vulkan`字段的表示适用于多种显卡设备，如果你明确知道自己是`N卡或AMD显卡`则选择`cuda/rocm`，不然就无脑下载`vulkan`
     - 其他的就是没有显卡加速的，只靠`CPU`跑，相比有上述有显卡加速的会慢很多
