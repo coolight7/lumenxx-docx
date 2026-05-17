@@ -2,9 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "流明-使用帮助",
+  title: "流明 • Lumenxx-使用帮助",
   head: [
-    ["meta", { name: "keywords", content: "流明,流明AI,音乐,AI翻唱,人声伴奏分离,文字转语音,DDSP-SVC,MSST,GPT-SoVITS,TTS,lumenxx,windows,GUI" }]
+    ["meta", { name: "keywords", content: "流明,流明AI,音乐,AI翻唱,人声伴奏分离,文字转语音,Llama.cpp,sd.cpp,agent,funasr,DDSP-SVC,MSST,GPT-SoVITS,TTS,lumenxx,windows,GUI" }]
   ],
   description: "流明 | AI音视频处理工具",
   appearance: "dark",
