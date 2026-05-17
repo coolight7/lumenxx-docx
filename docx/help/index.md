@@ -39,7 +39,7 @@
 - [文件工具]；批量重命名、批量平铺移动文件
 - 流明对AI模型的支持：
   - [Llama.cpp](./plugins/llama-cpp/)；运行语言聊天模型，可理解 文本/图像
-  - [StableDiffusion.cpp](./plugins/stablediffusion-cpp)；输入描述/参考图，生成 图像/视频
+  - [StableDiffusion.cpp](./plugins/stablediffusion-cpp/)；输入描述/参考图，生成 图像/视频
   - [DDSP-SVC](./plugins/ddsp-svc/)；AI变声/翻唱
   - [RVC]；AI变声/翻唱
   - [MSST](./plugins/msst/)；人声伴奏分离、和声混音分离、降噪
